@@ -1,0 +1,321 @@
+ID,Nombre_Ancheta,Precio,Categoria
+001,Ancheta de Chocolate,20,Dulces
+002,Ancheta de Frutas,25,Saludables
+003,Ancheta de Quesos,30,Gourmet
+004,Ancheta de Vino,50,Bebidas
+005,Ancheta de Snacks,15,Aperitivos
+006,Ancheta de Té,18,Bebidas
+007,Ancheta de Carnes,40,Gourmet
+008,Ancheta de Cervezas Artesanales,35,Bebidas
+009,Ancheta de Café,22,Bebidas
+010,Ancheta de Frutos Secos,17,Saludables
+011,Ancheta de Golosinas,12,Dulces
+012,Ancheta de Productos Orgánicos,28,Saludables
+013,Ancheta de Picoteo,23,Aperitivos
+014,Ancheta de Salsas y Condimentos,32,Gourmet
+015,Ancheta de Regalo para Parejas,55,Regalos
+016,Ancheta de Chocolates y Vino,45,Dulces-Bebidas
+017,Ancheta de Frutas Tropicales,28,Saludables
+018,Ancheta de Quesos Gourmet,60,Gourmet
+019,Ancheta de Cervezas Variadas,40,Bebidas
+020,Ancheta de Frutos Secos y Chocolate,30,Dulces-Saludables
+021,Ancheta de Café y Galletas,25,Bebidas-Dulces
+022,Ancheta de Sushi,50,Gourmet
+023,Ancheta de Vinos y Quesos,65,Gourmet-Bebidas
+024,Ancheta de Frutas Exóticas,35,Saludables
+025,Ancheta de Aperitivos Variados,20,Aperitivos
+026,Ancheta de Chocolates Premium,55,Dulces
+027,Ancheta de Té y Galletas,30,Bebidas-Dulces
+028,Ancheta de Salsas Picantes,18,Gourmet
+029,Ancheta de Cervezas Internacionales,50,Bebidas
+030,Ancheta de Productos Sin Gluten,40,Saludables
+031,Ancheta de Chocolates y Frutos Rojos,40,Dulces-Saludables
+032,Ancheta de Quesos y Vinos Selectos,75,Gourmet-Bebidas
+033,Ancheta de Cervezas Artesanales y Snacks,45,Bebidas-Aperitivos
+034,Ancheta de Frutas Frescas de Temporada,30,Saludables
+035,Ancheta de Surtido de Galletas,20,Dulces
+036,Ancheta de Té Exótico y Infusiones,35,Bebidas
+037,Ancheta de Embutidos y Quesos Curados,55,Gourmet
+038,Ancheta de Vinos Reserva y Chocolates Finos,70,Bebidas-Dulces
+039,Ancheta de Frutas Deshidratadas y Frutos Secos,25,Saludables
+040,Ancheta de Aperitivos Gourmet,22,Aperitivos
+041,Ancheta de Chocolates y Caramelos,18,Dulces
+042,Ancheta de Té Verde y Ceremonial,32,Bebidas
+043,Ancheta de Salsas y Aderezos Gourmet,28,Gourmet
+044,Ancheta de Cervezas Importadas,60,Bebidas
+045,Ancheta de Productos Orgánicos y Veganos,45,Saludables
+046,Ancheta de Chocolates y Vino,45,Dulces-Bebidas
+047,Ancheta de Frutas Tropicales,28,Saludables
+048,Ancheta de Quesos Gourmet,60,Gourmet
+049,Ancheta de Cervezas Variadas,40,Bebidas
+050,Ancheta de Frutos Secos y Chocolate,30,Dulces-Saludables
+051,Ancheta de Café y Galletas,25,Bebidas-Dulces
+052,Ancheta de Sushi,50,Gourmet
+053,Ancheta de Vinos y Quesos,65,Gourmet-Bebidas
+054,Ancheta de Frutas Exóticas,35,Saludables
+055,Ancheta de Aperitivos Variados,20,Aperitivos
+056,Ancheta de Chocolates Premium,55,Dulces
+057,Ancheta de Té y Galletas,30,Bebidas-Dulces
+058,Ancheta de Salsas Picantes,18,Gourmet
+059,Ancheta de Cervezas Internacionales,50,Bebidas
+060,Ancheta de Productos Sin Gluten,40,Saludables
+061,Ancheta de Chocolates y Vino,45,Dulces-Bebidas
+062,Ancheta de Frutas Tropicales,28,Saludables
+063,Ancheta de Quesos Gourmet,60,Gourmet
+064,Ancheta de Cervezas Variadas,40,Bebidas
+065,Ancheta de Frutos Secos y Chocolate,30,Dulces-Saludables
+066,Ancheta de Café y Galletas,25,Bebidas-Dulces
+067,Ancheta de Sushi,50,Gourmet
+068,Ancheta de Vinos y Quesos,65,Gourmet-Bebidas
+069,Ancheta de Frutas Exóticas,35,Saludables
+070,Ancheta de Aperitivos Variados,20,Aperitivos
+071,Ancheta de Chocolates y Vino,45,Dulces-Bebidas
+072,Ancheta de Frutas Tropicales,28,Saludables
+073,Ancheta de Quesos Gourmet,60,Gourmet
+074,Ancheta de Cervezas Variadas,40,Bebidas
+075,Ancheta de Frutos Secos y Chocolate,30,Dulces-Saludables
+076,Ancheta de Café y Galletas,25,Bebidas-Dulces
+077,Ancheta de Sushi,50,Gourmet
+078,Ancheta de Vinos y Quesos,65,Gourmet-Bebidas
+079,Ancheta de Frutas Exóticas,35,Saludables
+080,Ancheta de Aperitivos Variados,20,Aperitivos
+081,Ancheta de Chocolates Premium,55,Dulces
+082,Ancheta de Té y Galletas,30,Bebidas-Dulces
+083,Ancheta de Salsas Picantes,18,Gourmet
+084,Ancheta de Cervezas Internacionales,50,Bebidas
+085,Ancheta de Productos Sin Gluten,40,Saludables
+086,Ancheta de Chocolates y Vino,45,Dulces-Bebidas
+087,Ancheta de Frutas Tropicales,28,Saludables
+088,Ancheta de Quesos Gourmet,60,Gourmet
+089,Ancheta de Cervezas Variadas,40,Bebidas
+090,Ancheta de Frutos Secos y Chocolate,30,Dulces-Saludables
+091,Ancheta de Café y Galletas,25,Bebidas-Dulces
+092,Ancheta de Sushi,50,Gourmet
+093,Ancheta de Vinos y Quesos,65,Gourmet-Bebidas
+094,Ancheta de Frutas Exóticas,35,Saludables
+095,Ancheta de Aperitivos Variados,20,Aperitivos
+096,Ancheta de Chocolates y Vino,45,Dulces-Bebidas
+097,Ancheta de Frutas Tropicales,28,Saludables
+098,Ancheta de Quesos Gourmet,60,Gourmet
+099,Ancheta de Cervezas Variadas,40,Bebidas
+100,Ancheta de Frutos Secos y Chocolate,30,Dulces-Saludables
+101,Ancheta de Café y Galletas,25,Bebidas-Dulces
+102,Ancheta de Sushi,50,Gourmet
+103,Ancheta de Vinos y Quesos,65,Gourmet-Bebidas
+104,Ancheta de Frutas Exóticas,35,Saludables
+105,Ancheta de Aperitivos Variados,20,Aperitivos
+106,Ancheta de Chocolates Premium,55,Dulces
+107,Ancheta de Té y Galletas,30,Bebidas-Dulces
+108,Ancheta de Salsas Picantes,18,Gourmet
+109,Ancheta de Cervezas Internacionales,50,Bebidas
+110,Ancheta de Productos Sin Gluten,40,Saludables
+111,Ancheta de Chocolates y Vino,45,Dulces-Bebidas
+112,Ancheta de Frutas Tropicales,28,Saludables
+113,Ancheta de Quesos Gourmet,60,Gourmet
+114,Ancheta de Cervezas Variadas,40,Bebidas
+115,Ancheta de Frutos Secos y Chocolate,30,Dulces-Saludables
+116,Ancheta de Café y Galletas,25,Bebidas-Dulces
+117,Ancheta de Sushi,50,Gourmet
+118,Ancheta de Vinos y Quesos,65,Gourmet-Bebidas
+119,Ancheta de Frutas Exóticas,35,Saludables
+120,Ancheta de Aperitivos Variados,20,Aperitivos
+121,Ancheta de Chocolates y Vino,45,Dulces-Bebidas
+122,Ancheta de Frutas Tropicales,28,Saludables
+123,Ancheta de Quesos Gourmet,60,Gourmet
+124,Ancheta de Cervezas Variadas,40,Bebidas
+125,Ancheta de Frutos Secos y Chocolate,30,Dulces-Saludables
+126,Ancheta de Café y Galletas,25,Bebidas-Dulces
+127,Ancheta de Sushi,50,Gourmet
+128,Ancheta de Vinos y Quesos,65,Gourmet-Bebidas
+129,Ancheta de Frutas Exóticas,35,Saludables
+130,Ancheta de Aperitivos Variados,20,Aperitivos
+131,Ancheta de Chocolates Premium,55,Dulces
+132,Ancheta de Té y Galletas,30,Bebidas-Dulces
+133,Ancheta de Salsas Picantes,,Gourmet
+134,Ancheta de Cervezas Internacionales,50,
+135,,Gourmet
+136,Ancheta de Vinos y Quesos,65,Gourmet-Bebidas
+137,Ancheta de Frutas Exóticas,,Saludables
+138,,20,Aperitivos
+139,Ancheta de Chocolates Premium,55,Dulces
+140,Ancheta de Té y Galletas,30,
+141,Ancheta de Chocolates y Vino,45,Dulces-Bebidas
+142,Ancheta de Frutas Tropicales,28,Saludables
+143,Ancheta de Quesos Gourmet,60,Gourmet
+144,Ancheta de Cervezas Variadas,40,
+145,Ancheta de Frutos Secos y Chocolate,30,Dulces-Saludables
+146,Ancheta de Café y Galletas,25,Bebidas
+147,Ancheta de Sushi,,Gourmet
+148,Ancheta de Vinos y Quesos,65,Gourmet-Bebidas
+149,,Saludables
+150,Ancheta de Aperitivos Variados,20,Aperitivos
+151,Ancheta de Chocolates Premium,55,Dulces
+152,,Bebidas-Dulces
+153,Ancheta de Salsas Picantes,,Gourmet
+154,Ancheta de Cervezas Internacionales,50,Bebidas
+155,,,
+156,Ancheta de Vinos y Quesos,65,
+157,Ancheta de Frutas Exóticas,,Saludables
+158,,,Aperitivos
+159,Ancheta de Chocolates Premium,55,Dulces
+160,Ancheta de Té y Galletas,,Bebidas
+161,Ancheta de Chocolates y Vino,45,Dulces-Bebidas
+162,Ancheta de Frutas Tropicales,28,Saludables
+163,Ancheta de Quesos Gourmet,60,Gourmet
+164,Ancheta de Cervezas Variadas,40,
+165,Ancheta de Frutos Secos y Chocolate,30,Dulces-Saludables
+166,Ancheta de Café y Galletas,25,Bebidas
+167,Ancheta de Sushi,,Gourmet
+168,Ancheta de Vinos y Quesos,65,Gourmet-Bebidas
+169,,Saludables
+170,Ancheta de Aperitivos Variados,20,Aperitivos
+171,Ancheta de Chocolates Premium,55,Dulces
+172,,Bebidas-Dulces
+173,Ancheta de Salsas Picantes,,Gourmet
+174,Ancheta de Cervezas Internacionales,50,Bebidas
+175,,,
+176,Ancheta de Vinos y Quesos,65,
+177,Ancheta de Frutas Exóticas,,Saludables
+178,,,
+179,Ancheta de Chocolates Premium,55,Dulces
+180,Ancheta de Té y Galletas,,Bebidas
+181,Ancheta de Chocolates y Vino,45,Dulces-Bebidas
+182,Ancheta de Frutas Tropicales,28,Saludables
+183,Ancheta de Quesos Gourmet,60,Gourmet
+184,,,
+185,Ancheta de Frutos Secos y Chocolate,30,Dulces-Saludables
+186,Ancheta de Café y Galletas,25,Bebidas
+187,Ancheta de Sushi,,Gourmet
+188,Ancheta de Vinos y Quesos,65,Gourmet-Bebidas
+189,,Saludables
+190,Ancheta de Aperitivos Variados,20,Aperitivos
+191,Ancheta de Chocolates Premium,55,Dulces
+192,,Bebidas-Dulces
+193,Ancheta de Salsas Picantes,,Gourmet
+194,Ancheta de Cervezas Internacionales,50,Bebidas
+195,,,
+196,Ancheta de Vinos y Quesos,65,
+197,Ancheta de Frutas Exóticas,,Saludables
+198,,,
+199,Ancheta de Chocolates Premium,55,Dulces
+200,Ancheta de Té y Galletas,,Bebidas
+201,Ancheta de Chocolates y Vino,45,Dulces-Bebidas
+202,Ancheta de Frutas Tropicales,28,Saludables
+203,Ancheta de Quesos Gourmet,60,Gourmet
+204,,,
+205,Ancheta de Frutos Secos y Chocolate,30,Dulces-Saludables
+206,Ancheta de Café y Galletas,25,Bebidas
+207,Ancheta de Sushi,,Gourmet
+208,Ancheta de Vinos y Quesos,65,Gourmet-Bebidas
+209,,Saludables
+210,Ancheta de Aperitivos Variados,20,Aperitivos
+211,Ancheta de Chocolates Premium,55,Dulces
+212,,Bebidas-Dulces
+213,Ancheta de Salsas Picantes,,Gourmet
+214,Ancheta de Cervezas Internacionales,50,Bebidas
+215,,,
+216,Ancheta de Vinos y Quesos,65,
+217,Ancheta de Frutas Exóticas,,Saludables
+218,,,
+219,Ancheta de Chocolates Premium,55,Dulces
+220,Ancheta de Té y Galletas,,Bebidas
+221,Ancheta de Cervezas Variadas,40,Bebidas
+222,,Saludables
+223,Ancheta de Aperitivos Variados,20,Aperitivos
+224,Ancheta de Chocolates y Vino,45,Dulces-Bebidas
+225,Ancheta de Frutas Tropicales,28,Saludables
+226,Ancheta de Quesos Gourmet,60,Gourmet
+227,,,
+228,Ancheta de Frutos Secos y Chocolate,30,Dulces-Saludables
+229,Ancheta de Café y Galletas,25,Bebidas
+230,Ancheta de Sushi,,Gourmet
+231,Ancheta de Vinos y Quesos,65,Gourmet-Bebidas
+232,,Saludables
+233,Ancheta de Aperitivos Variados,20,Aperitivos
+234,Ancheta de Chocolates Premium,55,Dulces
+235,,,Bebidas-Dulces
+236,Ancheta de Salsas Picantes,,Gourmet
+237,Ancheta de Cervezas Internacionales,50,Bebidas
+238,,,
+239,Ancheta de Vinos y Quesos,65,
+240,Ancheta de Frutas Exóticas,,Saludables
+241,,,
+242,Ancheta de Chocolates Premium,55,Dulces
+243,Ancheta de Té y Galletas,,Bebidas
+244,Ancheta de Cervezas Variadas,40,Bebidas
+245,,Saludables
+246,Ancheta de Aperitivos Variados,20,Aperitivos
+247,Ancheta de Chocolates y Vino,45,Dulces-Bebidas
+248,Ancheta de Frutas Tropicales,28,Saludables
+249,Ancheta de Quesos Gourmet,60,Gourmet
+250,,,
+251,Ancheta de Frutos Secos y Chocolate,30,Dulces-Saludables
+252,Ancheta de Café y Galletas,25,Bebidas
+253,Ancheta de Sushi,,Gourmet
+254,Ancheta de Vinos y Quesos,65,Gourmet-Bebidas
+255,,Saludables
+256,Ancheta de Aperitivos Variados,20,Aperitivos
+257,Ancheta de Chocolates Premium,55,Dulces
+258,,Bebidas-Dulces
+259,Ancheta de Salsas Picantes,,Gourmet
+260,Ancheta de Cervezas Internacionales,50,Bebidas
+261,,,
+262,Ancheta de Vinos y Quesos,65,
+263,Ancheta de Frutas Exóticas,,Saludables
+264,,,
+265,Ancheta de Chocolates Premium,55,Dulces
+266,Ancheta de Té y Galletas,,Bebidas
+267,Ancheta de Cervezas Variadas,40,Bebidas
+268,,Saludables
+269,Ancheta de Aperitivos Variados,20,Aperitivos
+270,Ancheta de Chocolates y Vino,45,Dulces-Bebidas
+271,Ancheta de Frutas Tropicales,28,Saludables
+272,Ancheta de Quesos Gourmet,60,Gourmet
+273,,,
+274,Ancheta de Frutos Secos y Chocolate,30,Dulces-Saludables
+275,Ancheta de Café y Galletas,25,Bebidas
+276,Ancheta de Sushi,,Gourmet
+277,Ancheta de Vinos y Quesos,65,Gourmet-Bebidas
+278,,Saludables
+279,Ancheta de Aperitivos Variados,20,Aperitivos
+280,Ancheta de Chocolates Premium,55,Dulces
+281,,Bebidas-Dulces
+282,Ancheta de Salsas Picantes,,Gourmet
+283,Ancheta de Cervezas Internacionales,50,Bebidas
+284,,,
+285,Ancheta de Vinos y Quesos,65,
+286,Ancheta de Frutas Exóticas,,Saludables
+287,,,
+288,Ancheta de Chocolates Premium,55,Dulces
+289,Ancheta de Té y Galletas,,Bebidas
+290,Ancheta de Cervezas Variadas,40,Bebidas
+291,,Saludables
+292,Ancheta de Aperitivos Variados,20,Aperitivos
+293,Ancheta de Chocolates y Vino,45,Dulces-Bebidas
+294,Ancheta de Frutas Tropicales,28,Saludables
+295,Ancheta de Quesos Gourmet,60,Gourmet
+296,,,
+297,Ancheta de Frutos Secos y Chocolate,30,Dulces-Saludables
+298,Ancheta de Café y Galletas,25,Bebidas
+299,Ancheta de Sushi,,Gourmet
+300,Ancheta de Vinos y Quesos,65,Gourmet-Bebidas
+301,,Saludables
+302,Ancheta de Aperitivos Variados,20,Aperitivos
+303,Ancheta de Chocolates Premium,55,Dulces
+304,,Bebidas-Dulces
+305,Ancheta de Salsas Picantes,,Gourmet
+306,Ancheta de Cervezas Internacionales,50,Bebidas
+307,,,
+308,Ancheta de Vinos y Quesos,65,
+309,Ancheta de Frutas Exóticas,,Saludables
+310,,,
+311,Ancheta de Chocolates Premium,55,Dulces
+312,Ancheta de Té y Galletas,,Bebidas
+313,Ancheta de Cervezas Variadas,40,Bebidas
+314,,Saludables
+315,Ancheta de Aperitivos Variados,20,Aperitivos
+316,Ancheta de Chocolates y Vino,45,Dulces-Bebidas
+317,Ancheta de Frutas Tropicales,28,Saludables
+318,Ancheta de Quesos Gourmet,60,Gourmet
+319,,,
+320,Ancheta de Frutos Secos y Chocolate,30,Dulces-Saludables

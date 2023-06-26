@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>AMJOR &mdash; Hecho con amor</title>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Mukta:300,400,700">
+    <link rel="stylesheet" href="{{url_for('static', filename='../static/fonts/icomoon/style.css')}}">
+
+
+    <link rel="stylesheet" href="{{url_for('static', filename='scroll.css')}}">
+    <link rel="stylesheet" href="{{url_for('static', filename='bootstrap.min.css')}}">
+    <link rel="stylesheet" href="{{url_for('static', filename='magnific-popup.css')}}">
+    <link rel="stylesheet" href="{{url_for('static', filename='jquery-ui.css')}}">
+    <link rel="stylesheet" href="{{url_for('static', filename='owl.carousel.min.css')}}">
+    <link rel="stylesheet" href="{{url_for('static', filename='owl.theme.default.min.css')}}">
+    <link rel="stylesheet" href="{{url_for('static', filename='aos.css')}}">
+    <link rel="stylesheet" href="{{url_for('static', filename='style.css')}}">
+</head>
+
+<body>
+
+
+
+    <div class="site-wrap">
+        <header class="site-navbar" role="banner">
+            <div class="site-navbar-top">
+                <div class="container">
+                    <div class="row align-items-center">
+
+                        <div class="col-6 col-md-4 order-2 order-md-1 site-search-icon text-left">
+                            <form action="" class="site-block-top-search">
+                                <span class=""></span>
+                            </form>
+                        </div>
+
+                        <div class="col-12 mb-3 mb-md-0 col-md-4 order-1 order-md-2 text-center">
+                            <div class="site-logo">
+                                <a href="inicio" class="js-logo-clone">AMJOR</a>
+                            </div>
+                        </div>
+
+                        <div class="col-6 col-md-4 order-3 order-md-3 text-right">
+                            <div class="site-top-icons">
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <div class="site-section">
+            <div class="container">
+                <div class="row">
+                    <div class="col">
+                        <center>
+                        <form action="/" method="POST" enctype="multipart/form-data">
+                            <div class="col">
+                                <input type="file" name="archivo" accept=".xlsx, .xls, .csv">
+                                <input type="submit" value="Cargar archivo">
+                            </div>
+                        </form>
+                    </center>
+                    </div>
+                </div>
+
+                <h2>Respuesta del chat:</h2>
+                <p>{{ respuesta_chat }}</p> 
+            </div>
+        </div>
+
+        <footer class="site-footer border-top">
+            
+        </footer>
+    </div>
+
+    <script src="{{url_for('static', filename='jquery-3.3.1.min.js')}}"></script>
+    <script src="{{url_for('static', filename='jquery-ui.js')}}"></script>
+    <script src="{{url_for('static', filename='popper.min.js')}}"></script>
+    <script src="{{url_for('static', filename='bootstrap.min.js')}}"></script>
+    <script src="{{url_for('static', filename='owl.carousel.min.js')}}"></script>
+    <script src="{{url_for('static', filename='jquery.magnific-popup.min.js')}}"></script>
+    <script src="{{url_for('static', filename='aos.js')}}"></script>
+    <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
+    <script src="{{url_for('static', filename='main.js')}}"></script>
+    <script src="{{url_for('static', filename='graficas.js')}}"></script>
+
+</body>
+
+</html>
